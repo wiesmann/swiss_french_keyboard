@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Sat, 1 Jan 200 Generated from KCHR: "Swiss French" -->
 <!--Created by Ukelele version 1.6 on 2005-07-05 at 22:10 (JST)-->
-<!--Last edited by Ukelele version 3.0.0.43 on 2015-12-12 at 12:17 (GMT+1)-->
+<!--Last edited by Ukelele version 3.0.0.43 on 2015-12-12 at 12:28 (GMT+1)-->
 <!-- Sat, 1 Jan 200 Generated from KCHR: "Swiss French" -->
 <!--Created by Ukelele version 1.6 on 2005-07-05 at 22:10 (JST)-->
 <!--Last edited by Ukelele version 1.6 on 2005-07-07 at 16:34 (JST)-->
@@ -115,6 +115,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key action="dot 1" code="65"/>
 			<key code="66" output="&#x001D;"/>
 			<key action="*" code="67"/>
@@ -129,6 +130,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key action="-" code="78"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key action="= 1" code="81"/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -230,6 +233,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output=","/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
@@ -244,6 +248,8 @@
 			<key code="77" output="/"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -345,6 +351,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -359,6 +366,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -460,6 +469,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -474,6 +484,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -575,6 +587,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
@@ -589,6 +602,8 @@
 			<key code="77" output="/"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -690,6 +705,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -704,6 +720,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -805,6 +823,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -819,6 +838,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -920,6 +941,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
@@ -934,6 +956,8 @@
 			<key code="77" output="/"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -1035,6 +1059,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<!-- gap, 54 through 64 -->
+			<key code="64" output="&#x0010;"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -1049,6 +1074,8 @@
 			<key code="77" output="&#x001E;"/>
 			<key code="78" output="-"/>
 			<!-- gap, 79 through 80 -->
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
 			<key code="81" output="="/>
 			<key code="82" output="0"/>
 			<key code="83" output="1"/>
@@ -1269,12 +1296,12 @@
 		</action>
 		<action id="A">
 			<when output="A" state="none"/>
-			<when output="А" state="Cyrillic"/>
 			<when output="Á" state="acute"/>
 			<when output="Ǎ" state="carron"/>
 			<when output="Ą" state="cedilla"/>
 			<when output="Ⓐ" state="circle"/>
 			<when output="Â" state="circumflex"/>
+			<when output="А" state="cyrillic"/>
 			<when output="À" state="grave"/>
 			<when output="Α" state="greek"/>
 			<when output="Ā" state="macron"/>
@@ -1284,48 +1311,48 @@
 		</action>
 		<action id="B">
 			<when output="B" state="none"/>
-			<when output="Б" state="Cyrillic"/>
 			<when output="B́" state="acute"/>
 			<when output="B̌" state="carron"/>
 			<when output="Ḅ" state="cedilla"/>
 			<when output="Ⓑ" state="circle"/>
 			<when output="B̂" state="circumflex"/>
+			<when output="Б" state="cyrillic"/>
 			<when output="Β" state="greek"/>
 			<when output="Ƃ" state="macron"/>
 			<when output="฿" state="strike"/>
 		</action>
 		<action id="C">
 			<when output="C" state="none"/>
-			<when output="Ц" state="Cyrillic"/>
 			<when output="Ć" state="acute"/>
 			<when output="Č" state="carron"/>
 			<when output="Ç" state="cedilla"/>
 			<when output="Ⓒ" state="circle"/>
 			<when output="Ĉ" state="circumflex"/>
+			<when output="Ц" state="cyrillic"/>
 			<when output="Γ" state="greek"/>
 			<when output="C" state="macron"/>
 			<when output="₡" state="strike"/>
 		</action>
 		<action id="D">
 			<when output="D" state="none"/>
-			<when output="Д" state="Cyrillic"/>
 			<when output="D́" state="acute"/>
 			<when output="D" state="carron"/>
 			<when output="Ḑ" state="cedilla"/>
 			<when output="Ⓓ" state="circle"/>
 			<when output="D̂" state="circumflex"/>
+			<when output="Д" state="cyrillic"/>
 			<when output="Δ" state="greek"/>
 			<when output="D" state="macron"/>
 			<when output="Ð" state="strike"/>
 		</action>
 		<action id="E">
 			<when output="E" state="none"/>
-			<when output="Е" state="Cyrillic"/>
 			<when output="É" state="acute"/>
 			<when output="Ě" state="carron"/>
 			<when output="Ȩ" state="cedilla"/>
 			<when output="Ⓔ" state="circle"/>
 			<when output="Ê" state="circumflex"/>
+			<when output="Е" state="cyrillic"/>
 			<when output="È" state="grave"/>
 			<when output="Ε" state="greek"/>
 			<when output="Ē" state="macron"/>
@@ -1334,24 +1361,24 @@
 		</action>
 		<action id="F">
 			<when output="F" state="none"/>
-			<when output="Ф" state="Cyrillic"/>
 			<when output="F́" state="acute"/>
 			<when output="F" state="carron"/>
 			<when output="Ƒ" state="cedilla"/>
 			<when output="Ⓕ" state="circle"/>
 			<when output="F̂" state="circumflex"/>
+			<when output="Ф" state="cyrillic"/>
 			<when output="Ϝ" state="greek"/>
 			<when output="F" state="macron"/>
 			<when output="Ƒ" state="strike"/>
 		</action>
 		<action id="G">
 			<when output="G" state="none"/>
-			<when output="Г" state="Cyrillic"/>
 			<when output="Ǵ" state="acute"/>
 			<when output="Ǧ" state="carron"/>
 			<when output="Ģ" state="cedilla"/>
 			<when output="Ⓖ" state="circle"/>
 			<when output="Ĝ" state="circumflex"/>
+			<when output="Г" state="cyrillic"/>
 			<when output="Ζ" state="greek"/>
 			<when output="Ḡ" state="macron"/>
 			<when output="Ǥ" state="strike"/>
@@ -1370,12 +1397,12 @@
 		</action>
 		<action id="I">
 			<when output="I" state="none"/>
-			<when output="И" state="Cyrillic"/>
 			<when output="Í" state="acute"/>
 			<when output="Ǐ" state="carron"/>
 			<when output="Į" state="cedilla"/>
 			<when output="Ⓘ" state="circle"/>
 			<when output="Î" state="circumflex"/>
+			<when output="И" state="cyrillic"/>
 			<when output="Ì" state="grave"/>
 			<when output="Θ" state="greek"/>
 			<when output="Ī" state="macron"/>
@@ -1384,59 +1411,59 @@
 		</action>
 		<action id="J">
 			<when output="J" state="none"/>
-			<when output="Ј" state="Cyrillic"/>
 			<when output="J́" state="acute"/>
 			<when output="J̌" state="carron"/>
 			<when output="J" state="cedilla"/>
 			<when output="Ⓙ" state="circle"/>
 			<when output="Ĵ" state="circumflex"/>
+			<when output="Ј" state="cyrillic"/>
 			<when output="Ι" state="greek"/>
 			<when output="J" state="macron"/>
 			<when output="J" state="strike"/>
 		</action>
 		<action id="K">
 			<when output="K" state="none"/>
-			<when output="К" state="Cyrillic"/>
 			<when output="Ḱ" state="acute"/>
 			<when output="Ǩ" state="carron"/>
 			<when output="Ķ" state="cedilla"/>
 			<when output="Ⓚ" state="circle"/>
 			<when output="K̂" state="circumflex"/>
+			<when output="К" state="cyrillic"/>
 			<when output="Κ" state="greek"/>
 			<when output="K" state="macron"/>
 			<when output="₭" state="strike"/>
 		</action>
 		<action id="L">
 			<when output="L" state="none"/>
-			<when output="Л" state="Cyrillic"/>
 			<when output="Ĺ" state="acute"/>
 			<when output="L" state="carron"/>
 			<when output="Ļ" state="cedilla"/>
 			<when output="Ⓛ" state="circle"/>
 			<when output="L̂" state="circumflex"/>
+			<when output="Л" state="cyrillic"/>
 			<when output="Λ" state="greek"/>
 			<when output="Ḹ" state="macron"/>
 			<when output="Ł" state="strike"/>
 		</action>
 		<action id="M">
 			<when output="M" state="none"/>
-			<when output="М" state="Cyrillic"/>
 			<when output="Ḿ" state="acute"/>
 			<when output="M̌" state="carron"/>
 			<when output="Ṃ" state="cedilla"/>
 			<when output="Ⓜ" state="circle"/>
 			<when output="M̂" state="circumflex"/>
+			<when output="М" state="cyrillic"/>
 			<when output="Μ" state="greek"/>
 			<when output="M" state="macron"/>
 		</action>
 		<action id="N">
 			<when output="N" state="none"/>
-			<when output="Н" state="Cyrillic"/>
 			<when output="Ń" state="acute"/>
 			<when output="Ň" state="carron"/>
 			<when output="Ņ" state="cedilla"/>
 			<when output="Ⓝ" state="circle"/>
 			<when output="N̂" state="circumflex"/>
+			<when output="Н" state="cyrillic"/>
 			<when output="Ν" state="greek"/>
 			<when output="N" state="macron"/>
 			<when output="₦" state="strike"/>
@@ -1444,12 +1471,12 @@
 		</action>
 		<action id="O">
 			<when output="O" state="none"/>
-			<when output="О" state="Cyrillic"/>
 			<when output="Ó" state="acute"/>
 			<when output="Ǒ" state="carron"/>
 			<when output="Ǫ" state="cedilla"/>
 			<when output="Ⓞ" state="circle"/>
 			<when output="Ô" state="circumflex"/>
+			<when output="О" state="cyrillic"/>
 			<when output="Ò" state="grave"/>
 			<when output="Ο" state="greek"/>
 			<when output="Ō" state="macron"/>
@@ -1459,11 +1486,11 @@
 		</action>
 		<action id="P">
 			<when output="P" state="none"/>
-			<when output="П" state="Cyrillic"/>
 			<when output="P̌" state="carron"/>
 			<when output="Ƥ" state="cedilla"/>
 			<when output="Ⓟ" state="circle"/>
 			<when output="P̂" state="circumflex"/>
+			<when output="П" state="cyrillic"/>
 			<when output="Π" state="greek"/>
 			<when output="P" state="macron"/>
 			<when output="₱" state="strike"/>
@@ -1480,12 +1507,12 @@
 		</action>
 		<action id="R">
 			<when output="R" state="none"/>
-			<when output="Р" state="Cyrillic"/>
 			<when output="Ŕ" state="acute"/>
 			<when output="Ř" state="carron"/>
 			<when output="Ŗ" state="cedilla"/>
 			<when output="Ⓡ" state="circle"/>
 			<when output="R̂" state="circumflex"/>
+			<when output="Р" state="cyrillic"/>
 			<when output="Ρ" state="greek"/>
 			<when output="R" state="macron"/>
 			<when output="℟" state="strike"/>
@@ -1503,24 +1530,24 @@
 		</action>
 		<action id="T">
 			<when output="T" state="none"/>
-			<when output="Т" state="Cyrillic"/>
 			<when output="T́" state="acute"/>
 			<when output="T" state="carron"/>
 			<when output="Ţ" state="cedilla"/>
 			<when output="Ⓣ" state="circle"/>
 			<when output="T̂" state="circumflex"/>
+			<when output="Т" state="cyrillic"/>
 			<when output="Τ" state="greek"/>
 			<when output="T" state="macron"/>
 			<when output="₮" state="strike"/>
 		</action>
 		<action id="U">
 			<when output="U" state="none"/>
-			<when output="У" state="Cyrillic"/>
 			<when output="Ú" state="acute"/>
 			<when output="Ǔ" state="carron"/>
 			<when output="Ų" state="cedilla"/>
 			<when output="Ⓤ" state="circle"/>
 			<when output="Û" state="circumflex"/>
+			<when output="У" state="cyrillic"/>
 			<when output="Ù" state="grave"/>
 			<when output="Υ" state="greek"/>
 			<when output="Ū" state="macron"/>
@@ -1530,12 +1557,12 @@
 		</action>
 		<action id="V">
 			<when output="V" state="none"/>
-			<when output="В" state="Cyrillic"/>
 			<when output="V́" state="acute"/>
 			<when output="V̌" state="carron"/>
 			<when output="Ṿ" state="cedilla"/>
 			<when output="Ⓥ" state="circle"/>
 			<when output="V̂" state="circumflex"/>
+			<when output="В" state="cyrillic"/>
 			<when output="Φ" state="greek"/>
 			<when output="V" state="macron"/>
 			<when output="V" state="strike"/>
@@ -1555,12 +1582,12 @@
 		</action>
 		<action id="X">
 			<when output="X" state="none"/>
-			<when output="Х" state="Cyrillic"/>
 			<when output="X́" state="acute"/>
 			<when output="X̌" state="carron"/>
 			<when output="X" state="cedilla"/>
 			<when output="Ⓧ" state="circle"/>
 			<when output="X̂" state="circumflex"/>
+			<when output="Х" state="cyrillic"/>
 			<when output="Χ" state="greek"/>
 			<when output="X" state="macron"/>
 			<when output="X" state="strike"/>
@@ -1581,12 +1608,12 @@
 		</action>
 		<action id="Z">
 			<when output="Z" state="none"/>
-			<when output="З" state="Cyrillic"/>
 			<when output="Ź" state="acute"/>
 			<when output="Ž" state="carron"/>
 			<when output="Ȥ" state="cedilla"/>
 			<when output="Ⓩ" state="circle"/>
 			<when output="Ẑ" state="circumflex"/>
+			<when output="З" state="cyrillic"/>
 			<when output="Ω" state="greek"/>
 			<when output="Z" state="macron"/>
 			<when output="Ƶ" state="strike"/>
@@ -1622,6 +1649,7 @@
 			<when next="circumflex" state="none"/>
 			<when output="⋌" state="acute"/>
 			<when output="☺" state="circle"/>
+			<when next="cyrillic accented" state="cyrillic"/>
 			<when output="⋋" state="grave"/>
 			<when output="⌅" state="macron"/>
 		</action>
@@ -1640,12 +1668,12 @@
 		</action>
 		<action id="a">
 			<when output="a" state="none"/>
-			<when output="а" state="Cyrillic"/>
 			<when output="á" state="acute"/>
 			<when output="ǎ" state="carron"/>
 			<when output="ą" state="cedilla"/>
 			<when output="ⓐ" state="circle"/>
 			<when output="â" state="circumflex"/>
+			<when output="а" state="cyrillic"/>
 			<when output="à" state="grave"/>
 			<when output="α" state="greek"/>
 			<when output="ā" state="macron"/>
@@ -1655,12 +1683,12 @@
 		</action>
 		<action id="b">
 			<when output="b" state="none"/>
-			<when output="б" state="Cyrillic"/>
 			<when output="b́" state="acute"/>
 			<when output="b̌" state="carron"/>
 			<when output="b̧" state="cedilla"/>
 			<when output="ⓑ" state="circle"/>
 			<when output="b̂" state="circumflex"/>
+			<when output="б" state="cyrillic"/>
 			<when output="b̀" state="grave"/>
 			<when output="β" state="greek"/>
 			<when output="ƀ" state="macron"/>
@@ -1669,12 +1697,13 @@
 		</action>
 		<action id="c">
 			<when output="c" state="none"/>
-			<when output="ц" state="Cyrillic"/>
 			<when output="ć" state="acute"/>
 			<when output="č" state="carron"/>
 			<when output="ç" state="cedilla"/>
 			<when output="ⓒ" state="circle"/>
 			<when output="ĉ" state="circumflex"/>
+			<when output="ц" state="cyrillic"/>
+			<when output="ч" state="cyrillic accented"/>
 			<when output="c̀" state="grave"/>
 			<when output="γ" state="greek"/>
 			<when output="c̄" state="macron"/>
@@ -1698,12 +1727,13 @@
 		</action>
 		<action id="d">
 			<when output="d" state="none"/>
-			<when output="д" state="Cyrillic"/>
 			<when output="d́" state="acute"/>
 			<when output="d" state="carron"/>
 			<when output="ḑ" state="cedilla"/>
 			<when output="ⓓ" state="circle"/>
 			<when output="d̂" state="circumflex"/>
+			<when output="д" state="cyrillic"/>
+			<when output="ђ" state="cyrillic accented"/>
 			<when output="d̀" state="grave"/>
 			<when output="δ" state="greek"/>
 			<when output="d" state="macron"/>
@@ -1722,12 +1752,12 @@
 		</action>
 		<action id="e">
 			<when output="e" state="none"/>
-			<when output="е" state="Cyrillic"/>
 			<when output="é" state="acute"/>
 			<when output="ě" state="carron"/>
 			<when output="ȩ" state="cedilla"/>
 			<when output="ⓔ" state="circle"/>
 			<when output="ê" state="circumflex"/>
+			<when output="е" state="cyrillic"/>
 			<when output="è" state="grave"/>
 			<when output="ε" state="greek"/>
 			<when output="ē" state="macron"/>
@@ -1737,12 +1767,12 @@
 		</action>
 		<action id="f">
 			<when output="f" state="none"/>
-			<when output="ф" state="Cyrillic"/>
 			<when output="f́" state="acute"/>
 			<when output="f" state="carron"/>
 			<when output="f" state="cedilla"/>
 			<when output="ⓕ" state="circle"/>
 			<when output="f̂" state="circumflex"/>
+			<when output="ф" state="cyrillic"/>
 			<when output="f̀" state="grave"/>
 			<when output="ϝ" state="greek"/>
 			<when output="f̄" state="macron"/>
@@ -1751,12 +1781,12 @@
 		</action>
 		<action id="g">
 			<when output="g" state="none"/>
-			<when output="г" state="Cyrillic"/>
 			<when output="ǵ" state="acute"/>
 			<when output="ǧ" state="carron"/>
 			<when output="ģ" state="cedilla"/>
 			<when output="ⓖ" state="circle"/>
 			<when output="ĝ" state="circumflex"/>
+			<when output="г" state="cyrillic"/>
 			<when output="g̀" state="grave"/>
 			<when output="ζ" state="greek"/>
 			<when output="ḡ" state="macron"/>
@@ -1770,12 +1800,12 @@
 		</action>
 		<action id="h">
 			<when output="h" state="none"/>
-			<when output="х" state="Cyrillic"/>
 			<when output="h́" state="acute"/>
 			<when output="ȟ" state="carron"/>
 			<when output="ḩ" state="cedilla"/>
 			<when output="ⓗ" state="circle"/>
 			<when output="ĥ" state="circumflex"/>
+			<when output="х" state="cyrillic"/>
 			<when output="h̀" state="grave"/>
 			<when output="η" state="greek"/>
 			<when output="ħ" state="macron"/>
@@ -1784,12 +1814,12 @@
 		</action>
 		<action id="i">
 			<when output="i" state="none"/>
-			<when output="и" state="Cyrillic"/>
 			<when output="í" state="acute"/>
 			<when output="ǐ" state="carron"/>
 			<when output="į" state="cedilla"/>
 			<when output="ⓘ" state="circle"/>
 			<when output="î" state="circumflex"/>
+			<when output="и" state="cyrillic"/>
 			<when output="ì" state="grave"/>
 			<when output="θ" state="greek"/>
 			<when output="ī" state="macron"/>
@@ -1798,12 +1828,12 @@
 		</action>
 		<action id="j">
 			<when output="j" state="none"/>
-			<when output="ј" state="Cyrillic"/>
 			<when output="j́" state="acute"/>
 			<when output="ǰ" state="carron"/>
 			<when output="j" state="cedilla"/>
 			<when output="ⓙ" state="circle"/>
 			<when output="ĵ" state="circumflex"/>
+			<when output="ј" state="cyrillic"/>
 			<when output="j̀" state="grave"/>
 			<when output="ι" state="greek"/>
 			<when output="j̄" state="macron"/>
@@ -1812,12 +1842,12 @@
 		</action>
 		<action id="k">
 			<when output="k" state="none"/>
-			<when output="к" state="Cyrillic"/>
 			<when output="ḱ" state="acute"/>
 			<when output="ǩ" state="carron"/>
 			<when output="ķ" state="cedilla"/>
 			<when output="ⓚ" state="circle"/>
 			<when output="k̂" state="circumflex"/>
+			<when output="к" state="cyrillic"/>
 			<when output="k̀" state="grave"/>
 			<when output="κ" state="greek"/>
 			<when output="k̄" state="macron"/>
@@ -1826,12 +1856,12 @@
 		</action>
 		<action id="l">
 			<when output="l" state="none"/>
-			<when output="л" state="Cyrillic"/>
 			<when output="ĺ" state="acute"/>
 			<when output="l" state="carron"/>
 			<when output="ļ" state="cedilla"/>
 			<when output="ⓛ" state="circle"/>
 			<when output="l" state="circumflex"/>
+			<when output="л" state="cyrillic"/>
 			<when output="l" state="grave"/>
 			<when output="λ" state="greek"/>
 			<when output="ƚ" state="macron"/>
@@ -1840,12 +1870,12 @@
 		</action>
 		<action id="m">
 			<when output="m" state="none"/>
-			<when output="м" state="Cyrillic"/>
 			<when output="ḿ" state="acute"/>
 			<when output="m̌" state="carron"/>
 			<when output="m̧" state="cedilla"/>
 			<when output="ⓜ" state="circle"/>
 			<when output="m̂" state="circumflex"/>
+			<when output="м" state="cyrillic"/>
 			<when output="m̀" state="grave"/>
 			<when output="μ" state="greek"/>
 			<when output="m̄" state="macron"/>
@@ -1854,12 +1884,12 @@
 		</action>
 		<action id="n">
 			<when output="n" state="none"/>
-			<when output="н" state="Cyrillic"/>
 			<when output="ń" state="acute"/>
 			<when output="ň" state="carron"/>
 			<when output="ņ" state="cedilla"/>
 			<when output="ⓝ" state="circle"/>
 			<when output="n̂" state="circumflex"/>
+			<when output="н" state="cyrillic"/>
 			<when output="ǹ" state="grave"/>
 			<when output="ν" state="greek"/>
 			<when output="n̄" state="macron"/>
@@ -1869,12 +1899,12 @@
 		</action>
 		<action id="o">
 			<when output="o" state="none"/>
-			<when output="о" state="Cyrillic"/>
 			<when output="ó" state="acute"/>
 			<when output="ǒ" state="carron"/>
 			<when output="ǫ" state="cedilla"/>
 			<when output="ⓞ" state="circle"/>
 			<when output="ô" state="circumflex"/>
+			<when output="о" state="cyrillic"/>
 			<when output="ò" state="grave"/>
 			<when output="ο" state="greek"/>
 			<when output="ō" state="macron"/>
@@ -1884,12 +1914,12 @@
 		</action>
 		<action id="p">
 			<when output="p" state="none"/>
-			<when output="п" state="Cyrillic"/>
 			<when output="ṕ" state="acute"/>
 			<when output="p̌" state="carron"/>
 			<when output="p̧" state="cedilla"/>
 			<when output="ⓟ" state="circle"/>
 			<when output="p̂" state="circumflex"/>
+			<when output="п" state="cyrillic"/>
 			<when output="p̀" state="grave"/>
 			<when output="π" state="greek"/>
 			<when output="p̄" state="macron"/>
@@ -1916,12 +1946,12 @@
 		</action>
 		<action id="r">
 			<when output="r" state="none"/>
-			<when output="р" state="Cyrillic"/>
 			<when output="ŕ" state="acute"/>
 			<when output="ř" state="carron"/>
 			<when output="ŗ" state="cedilla"/>
 			<when output="ⓡ" state="circle"/>
 			<when output="r̂" state="circumflex"/>
+			<when output="р" state="cyrillic"/>
 			<when output="r̀" state="grave"/>
 			<when output="ρ" state="greek"/>
 			<when output="r̄" state="macron"/>
@@ -1930,12 +1960,13 @@
 		</action>
 		<action id="s">
 			<when output="s" state="none"/>
-			<when output="с" state="Cyrillic"/>
 			<when output="ś" state="acute"/>
 			<when output="š" state="carron"/>
 			<when output="ş" state="cedilla"/>
 			<when output="ⓢ" state="circle"/>
 			<when output="ŝ" state="circumflex"/>
+			<when output="с" state="cyrillic"/>
+			<when output="ш" state="cyrillic accented"/>
 			<when output="s̀" state="grave"/>
 			<when output="σ" state="greek"/>
 			<when output="s̄" state="macron"/>
@@ -1955,12 +1986,12 @@
 		</action>
 		<action id="t">
 			<when output="t" state="none"/>
-			<when output="т" state="Cyrillic"/>
 			<when output="t́" state="acute"/>
 			<when output="t" state="carron"/>
 			<when output="ţ" state="cedilla"/>
 			<when output="ⓣ" state="circle"/>
 			<when output="t̂" state="circumflex"/>
+			<when output="т" state="cyrillic"/>
 			<when output="t̀" state="grave"/>
 			<when output="τ" state="greek"/>
 			<when output="t" state="macron"/>
@@ -1969,12 +2000,12 @@
 		</action>
 		<action id="u">
 			<when output="u" state="none"/>
-			<when output="у" state="Cyrillic"/>
 			<when output="ú" state="acute"/>
 			<when output="ǔ" state="carron"/>
 			<when output="ų" state="cedilla"/>
 			<when output="ⓤ" state="circle"/>
 			<when output="û" state="circumflex"/>
+			<when output="у" state="cyrillic"/>
 			<when output="ù" state="grave"/>
 			<when output="υ" state="greek"/>
 			<when output="ū" state="macron"/>
@@ -1984,12 +2015,12 @@
 		</action>
 		<action id="v">
 			<when output="v" state="none"/>
-			<when output=" в" state="Cyrillic"/>
 			<when output="v́" state="acute"/>
 			<when output="v̌" state="carron"/>
 			<when output="v̧" state="cedilla"/>
 			<when output="ⓥ" state="circle"/>
 			<when output="v̂" state="circumflex"/>
+			<when output=" в" state="cyrillic"/>
 			<when output="v̀" state="grave"/>
 			<when output="φ" state="greek"/>
 			<when output="v̄" state="macron"/>
@@ -2010,13 +2041,13 @@
 			<when output="ẅ" state="umlaut"/>
 		</action>
 		<action id="x">
-			<when next="Cyrillic" state="none"/>
-			<when output="х" state="Cyrillic"/>
+			<when output="x" state="none"/>
 			<when output="x́" state="acute"/>
 			<when output="x̌" state="carron"/>
 			<when output="x̧" state="cedilla"/>
 			<when output="ⓧ" state="circle"/>
 			<when output="x̂" state="circumflex"/>
+			<when output="х" state="cyrillic"/>
 			<when output="x̀" state="grave"/>
 			<when output="χ" state="greek"/>
 			<when output="x̄" state="macron"/>
@@ -2039,12 +2070,13 @@
 		</action>
 		<action id="z">
 			<when output="z" state="none"/>
-			<when output="з" state="Cyrillic"/>
 			<when output="ź" state="acute"/>
 			<when output="ž" state="carron"/>
 			<when output="z̧" state="cedilla"/>
 			<when output="ⓩ" state="circle"/>
 			<when output="ẑ" state="circumflex"/>
+			<when output="з" state="cyrillic"/>
+			<when output="ж" state="cyrillic accented"/>
 			<when output="z̀" state="grave"/>
 			<when output="ω" state="greek"/>
 			<when output="z̄" state="macron"/>
@@ -2424,7 +2456,7 @@
 			<when output="฿" state="strike"/>
 		</action>
 		<action id="≈">
-			<when output="≈" state="none"/>
+			<when next="cyrillic" state="none"/>
 			<when output="⎈" state="circle"/>
 		</action>
 		<action id="≠">
@@ -2464,12 +2496,13 @@
 		</action>
 	</actions>
 	<terminators>
-		<when output="" state="Cyrillic"/>
 		<when output="´" state="acute"/>
 		<when output="ˇ" state="carron"/>
 		<when output="̧" state="cedilla"/>
 		<when output="○" state="circle"/>
 		<when output="^" state="circumflex"/>
+		<when output="" state="cyrillic"/>
+		<when output="" state="cyrillic accented"/>
 		<when output="`" state="grave"/>
 		<when output=" " state="greek"/>
 		<when output="¯" state="macron"/>
